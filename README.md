@@ -15,3 +15,8 @@ A few photos I took, including:
 
 ## BOM
 R, C and L values measured in circuit using LCR meter DER EE DE-5000.
+
+## Other
+Two links for FCC certification related documents of this product.  
+・fccid.io: https://fccid.io/2AKXB-W3400010  
+・device.report: https://device.report/woan-technology-shenzhen/w3400010
