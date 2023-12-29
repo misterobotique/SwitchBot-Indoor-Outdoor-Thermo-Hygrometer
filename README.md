@@ -2,7 +2,7 @@
 Here you will find the result of my quick reverse engineering of SwitchBot indoor/outdoor thermo-hygrometer (product number W3400010).
 
 ## KiCad
-Schematic and custom library.
+Schematic of actual PCB.
 
 ## Datasheets
 Compilation of datasheets (main components only) for reference.
